@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juandonado25.
-- 👀 I’m interested in creating videogames and develop software.
-- 🌱 I’m currently learning c#.
+- 👀 I’m interested in software development & cybersecurity.
+- 🌱 I’m currently learning many this for my own and at the university.
 - 💞️ I’m looking to collaborate in any project that is available in the community to help colleagues and help me improve my skills.
 - 📫 How to reach me juandonado25@gmail.com.
 
