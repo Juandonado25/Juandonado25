@@ -72,6 +72,5 @@ Incluye:
 
 ## Contacto
 
-* GitHub: https://github.com/juandonado25
 * Email: juandonado25@gmail.com
 * Linkedin: https://www.linkedin.com/in/juandonado25/
