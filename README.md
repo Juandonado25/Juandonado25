@@ -1,6 +1,6 @@
 # Juan J. Donado
 
-Estudiante de ciberseguridad enfocado en Blue Team y operaciones de seguridad (SOC). Interesado en monitoreo, detección de amenazas, análisis de logs y respuesta ante incidentes en entornos simulados.
+Estudiante de ciberseguridad enfocado en Blue Team y operaciones de seguridad (SOC). Mejorando mis habilidades de monitoreo, detección de amenazas, análisis de logs y respuesta ante incidentes en entornos simulados.
 
 Actualmente desarrollo y mantengo un laboratorio de ciberseguridad donde implemento y valido controles defensivos, herramientas SIEM y arquitecturas de red segmentadas.
 
@@ -29,7 +29,7 @@ Incluye:
 * Integración de herramientas de detección
 * Simulación de escenarios de red
 
-### SOC Practices
+### Cybersecurity Homelab Practices
 
 Repositorio de prácticas enfocadas en validación de reglas de seguridad y comportamiento de red dentro del laboratorio.
 
